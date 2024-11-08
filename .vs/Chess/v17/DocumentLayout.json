@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Games\\CHESS\\Chess\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|C:\\Games\\CHESS\\Chess\\Chess\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|solutionrelative:Chess\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|C:\\Games\\CHESS\\Chess\\Chess\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|solutionrelative:Chess\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|C:\\Games\\CHESS\\Chess\\Chess\\tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|solutionrelative:Chess\\tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|C:\\Games\\CHESS\\Chess\\Chess\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|solutionrelative:Chess\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|C:\\Games\\CHESS\\Chess\\Chess\\tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|solutionrelative:Chess\\tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|C:\\Games\\CHESS\\Chess\\Chess\\tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F6F822C-27D4-4ECD-99D3-A2493751386F}|Chess\\Chess.vcxproj|solutionrelative:Chess\\tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "tools.cpp",
               "DocumentMoniker": "C:\\Games\\CHESS\\Chess\\Chess\\tools.cpp",
               "RelativeDocumentMoniker": "Chess\\tools.cpp",
               "ToolTip": "C:\\Games\\CHESS\\Chess\\Chess\\tools.cpp",
               "RelativeToolTip": "Chess\\tools.cpp",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAtwFUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-09T14:08:41.128Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Games\\CHESS\\Chess\\Chess\\game.cpp",
+              "RelativeDocumentMoniker": "Chess\\game.cpp",
+              "ToolTip": "C:\\Games\\CHESS\\Chess\\Chess\\game.cpp",
+              "RelativeToolTip": "Chess\\game.cpp",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwFQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T20:34:41.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "tools.h",
-              "DocumentMoniker": "C:\\Games\\CHESS\\Chess\\Chess\\tools.h",
-              "RelativeDocumentMoniker": "Chess\\tools.h",
-              "ToolTip": "C:\\Games\\CHESS\\Chess\\Chess\\tools.h",
-              "RelativeToolTip": "Chess\\tools.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Games\\CHESS\\Chess\\Chess\\game.h",
+              "RelativeDocumentMoniker": "Chess\\game.h",
+              "ToolTip": "C:\\Games\\CHESS\\Chess\\Chess\\game.h",
+              "RelativeToolTip": "Chess\\game.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAADgvxQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-09T14:44:46.303Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T20:34:22.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Chess.cpp",
               "DocumentMoniker": "C:\\Games\\CHESS\\Chess\\Chess\\Chess.cpp",
               "RelativeDocumentMoniker": "Chess\\Chess.cpp",
               "ToolTip": "C:\\Games\\CHESS\\Chess\\Chess\\Chess.cpp",
               "RelativeToolTip": "Chess\\Chess.cpp",
-              "ViewState": "AQIAAIgAAAAAAAAAAADwvw0BAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-09T02:28:08.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T02:28:08.257Z"
             }
           ]
         }

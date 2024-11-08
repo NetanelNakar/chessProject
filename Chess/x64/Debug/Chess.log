@@ -1,19 +1,9 @@
-﻿  Chess.cpp
-C:\Games\CHESS\Chess\Chess\Chess.cpp(513,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Games\CHESS\Chess\Chess\Chess.cpp(514,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Games\CHESS\Chess\Chess\Chess.cpp(523,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Games\CHESS\Chess\Chess\Chess.cpp(531,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Games\CHESS\Chess\Chess\Chess.cpp(540,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Games\CHESS\Chess\Chess\Chess.cpp(541,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Games\CHESS\Chess\Chess\Chess.cpp(621,66): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
-C:\Games\CHESS\Chess\Chess\Chess.cpp(621,66): warning C4244:         with
-C:\Games\CHESS\Chess\Chess\Chess.cpp(621,66): warning C4244:         [
-C:\Games\CHESS\Chess\Chess\Chess.cpp(621,66): warning C4244:             T=float
-C:\Games\CHESS\Chess\Chess\Chess.cpp(621,66): warning C4244:         ]
-C:\Games\CHESS\Chess\Chess\Chess.cpp(621,50): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
-C:\Games\CHESS\Chess\Chess\Chess.cpp(621,50): warning C4244:         with
-C:\Games\CHESS\Chess\Chess\Chess.cpp(621,50): warning C4244:         [
-C:\Games\CHESS\Chess\Chess\Chess.cpp(621,50): warning C4244:             T=float
-C:\Games\CHESS\Chess\Chess\Chess.cpp(621,50): warning C4244:         ]
-C:\Games\CHESS\Chess\Chess\Chess.cpp(135,1): warning C4715: 'checkValidityOfMove': not all control paths return a value
+﻿  game.cpp
+C:\Games\CHESS\Chess\Chess\game.cpp(11,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Games\CHESS\Chess\Chess\game.cpp(12,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Games\CHESS\Chess\Chess\game.cpp(21,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Games\CHESS\Chess\Chess\game.cpp(29,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Games\CHESS\Chess\Chess\game.cpp(38,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Games\CHESS\Chess\Chess\game.cpp(39,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Games\CHESS\Chess\Chess\game.cpp(171,1): warning C4715: 'Game::checkValidityOfMove': not all control paths return a value
   Chess.vcxproj -> C:\Games\CHESS\Chess\x64\Debug\Chess.exe
